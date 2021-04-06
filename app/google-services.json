@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536732863890",
+    "project_id": "ocr-testing-13e92",
+    "storage_bucket": "ocr-testing-13e92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536732863890:android:581c86f19d22da96cb854b",
+        "android_client_info": {
+          "package_name": "es.diusframi.ocrtesting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536732863890-g3v7m9411jb224ee3gvutfqapcomaj9t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3rpxKxmXjOHJI_FJXN8fIL5-kYbCaOKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536732863890-g3v7m9411jb224ee3gvutfqapcomaj9t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
